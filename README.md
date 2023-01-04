@@ -14,3 +14,6 @@ A project can build actual user interface for ecommerce
 - After complete the all installation successfully just enter command npm start
 - before run project make sure that you have run you backend project which run on localhost:4000 or setup the firebase 
 - after doing all necessory setup just run the npm run dev for run project 
+
+![frame](https://user-images.githubusercontent.com/121428046/210564923-554d39c9-f6fa-4fc8-865b-97a364e154ae.png)
+![frame2](https://user-images.githubusercontent.com/121428046/210564933-d7098046-3718-41b6-a4bf-5c1fa018b146.png)
